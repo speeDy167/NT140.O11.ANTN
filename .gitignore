@@ -1,0 +1,6 @@
+*.pyc
+*.xml
+*.iml
+.idea/
+*/__pycache__/
+run/runConfig.json
